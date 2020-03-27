@@ -96,7 +96,7 @@ time. */
 #define mainNO_DELAY				( 0 )
 
 /*-----------------------------------------------------------*/
-
+/**/
 /* The type that is posted to the LCD queue. */
 typedef struct LCD_MESSAGE
 {
